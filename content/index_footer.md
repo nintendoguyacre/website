@@ -1,6 +1,6 @@
 ---
 tagline: "Network Nations Alliance"
-location: "Coordinated globally"
+location: "Coordinated globally, acted on locally"
 ---
 
 - platform: "X"
